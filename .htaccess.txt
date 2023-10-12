@@ -1,0 +1,6 @@
+<Directory "/sibadiResume/index">
+          Options Indexes MultiViews FollowSymLinks
+          AllowOverride All
+          Order allow,deny
+          Allow from all
+</Directory>
